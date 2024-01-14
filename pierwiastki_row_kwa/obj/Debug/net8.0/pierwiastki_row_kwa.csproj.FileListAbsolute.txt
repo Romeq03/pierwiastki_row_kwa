@@ -1,0 +1,14 @@
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/bin/Debug/net8.0/pierwiastki_row_kwa
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/bin/Debug/net8.0/pierwiastki_row_kwa.deps.json
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/bin/Debug/net8.0/pierwiastki_row_kwa.runtimeconfig.json
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/bin/Debug/net8.0/pierwiastki_row_kwa.dll
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/bin/Debug/net8.0/pierwiastki_row_kwa.pdb
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/pierwiastki_row_kwa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/pierwiastki_row_kwa.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/pierwiastki_row_kwa.AssemblyInfo.cs
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/pierwiastki_row_kwa.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/pierwiastki_row_kwa.dll
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/refint/pierwiastki_row_kwa.dll
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/pierwiastki_row_kwa.pdb
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/pierwiastki_row_kwa.genruntimeconfig.cache
+/Users/bartekromek/wsb/pierwiastki_row_kwa/pierwiastki_row_kwa/obj/Debug/net8.0/ref/pierwiastki_row_kwa.dll
