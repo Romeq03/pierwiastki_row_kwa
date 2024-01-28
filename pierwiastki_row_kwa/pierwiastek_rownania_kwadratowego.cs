@@ -34,6 +34,5 @@ class Program
             Console.WriteLine("Równanie nie ma pierwiastków rzeczywistych.");
         }
 
-        Console.ReadLine(); // Zatrzymuje konsolę przed zamknięciem
-    }
+        Console.ReadLine();    }
 }
